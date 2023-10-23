@@ -18,3 +18,4 @@ public class CalculadoraTest {
     assertEquals(10, calc.soma(4,6));
   }
 }
+//teste//
